@@ -1,2 +1,1 @@
-# jschroe3.github.io
-The Treasure Vault
+# bootcampDemo.github.io
